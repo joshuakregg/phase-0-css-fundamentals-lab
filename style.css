@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  
+  margin: auto;
+  width: 30%;
+  
+  text-align: center;
+  padding: 10px;
+}
+
+nav {
+  margin: auto;
+  width: 50%;
+  
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  
+  background-color: gray;
+  padding: 10px;
+}
+
+#featured-property {
+  margin: auto;
+  
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+}
+
+#featured-property p {
+  margin: auto;
+  width: 50%;
+  align-items: center;
+  text-align: center;
+  padding: 10 px;
+}
+
+#details {
+  background: red;
+}
+
+#details div{
+  padding: 0px 75px 0px 175px;
+  text-align: center;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  
+}
